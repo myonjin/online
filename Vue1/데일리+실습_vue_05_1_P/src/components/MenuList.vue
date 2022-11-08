@@ -34,6 +34,6 @@ export default {
   padding-right: 5px;
 }
 .width{
-  width: 500px;
+  width: 50%;
 }
 </style>

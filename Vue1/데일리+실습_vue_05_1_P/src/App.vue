@@ -30,12 +30,13 @@ export default {
 
 <style>
   .box {
+  margin: auto;
   display: flex;
   flex-direction: row;
+  justify-content: center;
   box-sizing: border-box;
   font-family: 'Noto Sans KR', sans-serif;
   padding: 10px;
-  margin: 10px;
 }
 
 ul {
