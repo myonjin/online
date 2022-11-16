@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T07:29:16.436Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="R44iwY_Ns4HAEEtCD-BQ" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-16T07:32:00.205Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="XkTyuX_mDQrSnfv0cd7a" version="20.5.3" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1990" dy="1504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
+    <mxGraphModel dx="1421" dy="1074" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -222,6 +222,11 @@
             <mxGeometry x="1370" y="450" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="6QzcaGz9S-YZrrsxXRJN-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6QzcaGz9S-YZrrsxXRJN-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1600" y="545" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <UserObject label="UserStarMovieList" treeRoot="1" id="6QzcaGz9S-YZrrsxXRJN-65">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
             <mxGeometry x="1540" y="450" width="120" height="60" as="geometry" />
@@ -272,25 +277,25 @@
           </mxCell>
         </UserObject>
         <mxCell id="6QzcaGz9S-YZrrsxXRJN-83" value="MovieListItem" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;whiteSpace=wrap;fillStyle=auto;labelPosition=center;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="190" y="540" width="100" height="60" as="geometry" />
+          <mxGeometry x="185" y="540" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6QzcaGz9S-YZrrsxXRJN-84" value="MovieListItem" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;whiteSpace=wrap;fillStyle=auto;labelPosition=center;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="20" y="540" width="100" height="60" as="geometry" />
+          <mxGeometry x="15" y="540" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6QzcaGz9S-YZrrsxXRJN-85" value="MovieListItem" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;whiteSpace=wrap;fillStyle=auto;labelPosition=center;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="350" y="540" width="100" height="60" as="geometry" />
+          <mxGeometry x="345" y="540" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6QzcaGz9S-YZrrsxXRJN-86" value="ActorItem" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;whiteSpace=wrap;fillStyle=auto;labelPosition=center;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="690" y="540" width="100" height="60" as="geometry" />
+        <mxCell id="6QzcaGz9S-YZrrsxXRJN-86" value="ActorIListtem" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;whiteSpace=wrap;fillStyle=auto;labelPosition=center;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="685" y="540" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6QzcaGz9S-YZrrsxXRJN-87" value="MovieListItem" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;whiteSpace=wrap;fillStyle=auto;labelPosition=center;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="850" y="540" width="100" height="60" as="geometry" />
+          <mxGeometry x="845" y="540" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6QzcaGz9S-YZrrsxXRJN-89" value="MovieListItem" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;whiteSpace=wrap;fillStyle=auto;labelPosition=center;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="540" width="100" height="60" as="geometry" />
+          <mxGeometry x="1375" y="540" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6QzcaGz9S-YZrrsxXRJN-90" value="ArticleListItem" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;whiteSpace=wrap;fillStyle=auto;labelPosition=center;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="880" width="100" height="60" as="geometry" />
+          <mxGeometry x="1115" y="880" width="110" height="70" as="geometry" />
         </mxCell>
         <UserObject label="404-Not-Found" treeRoot="1" id="6QzcaGz9S-YZrrsxXRJN-91">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#d5e8d4;strokeColor=#82b366;fillStyle=auto;" vertex="1" parent="1">
@@ -330,6 +335,25 @@
         </UserObject>
         <mxCell id="6QzcaGz9S-YZrrsxXRJN-105" value="ArticleCommentListItem" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;whiteSpace=wrap;fillStyle=auto;labelPosition=center;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1437.5" y="880" width="145" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="6QzcaGz9S-YZrrsxXRJN-109" value="" style="edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=none;rounded=0;targetPortConstraint=eastwest;sourcePortConstraint=northsouth;" edge="1" target="6QzcaGz9S-YZrrsxXRJN-111" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="710" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6QzcaGz9S-YZrrsxXRJN-110" value="" style="edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=none;rounded=0;targetPortConstraint=eastwest;sourcePortConstraint=northsouth;" edge="1" target="6QzcaGz9S-YZrrsxXRJN-112" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="710" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6QzcaGz9S-YZrrsxXRJN-111" value="ImgSrc" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;fillStyle=auto;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="380" y="750" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6QzcaGz9S-YZrrsxXRJN-112" value="ChoSung" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;fillStyle=auto;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="500" y="750" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6QzcaGz9S-YZrrsxXRJN-113" value="MovieListItem" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;whiteSpace=wrap;fillStyle=auto;labelPosition=center;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1545" y="550" width="110" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
